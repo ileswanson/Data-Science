@@ -9,5 +9,7 @@ Here, ExtraaLearn is a startup that offers online programs in the technology fie
 This are the objectives of this project:
 
 1.- Analyze and build an ML model to help identify which leads are more likely to convert to paid customers.
+
 2.- Find the factors driving the lead conversion process
+
 3.- Create a profile of the leads which are likely to convert
