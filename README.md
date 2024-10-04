@@ -1,6 +1,7 @@
 # Data-Science
 Here are some of my Data Science projects.
 
+Project: Potential Customer Prediction:
 On the file Swanson_Notebook_FullCode_Potential_Customers+Prediction contains a project I did during my Data Science and Machine Learning with MIT.
 
 Here, ExtraaLearn is a startup that offers online programs in the technology field to help students upskill/reskill. From all the leads we are trying to identify which ones will be more likely to register for a programs.
