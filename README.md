@@ -1,7 +1,10 @@
 # Data-Science
 Here are some of my Data Science projects.
+
 1.- Potentia Customer Preduction.
+
 2.- Recomendations System.
+
 
 PROJECT: Potential Customer Prediction.
 
